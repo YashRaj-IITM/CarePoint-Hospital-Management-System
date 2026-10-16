@@ -6,17 +6,11 @@ A full-stack hospital-management application built for the Application Developme
 
 ## Screenshots
 
-| Sign in | Overview |
-|---|---|
-| ![Login](docs/screenshots/01-login.png) | ![Overview](docs/screenshots/02-overview.png) |
+![CarePoint admin overview dashboard](docs/screenshots/02-overview.png)
 
-| Doctors | Edit a doctor |
-|---|---|
-| ![Doctors](docs/screenshots/03-doctors.png) | ![Edit doctor](docs/screenshots/04-edit-doctor.png) |
+### Admin overview dashboard
 
-| Edit a department | Appointments |
-|---|---|
-| ![Edit department](docs/screenshots/05-edit-department.png) | ![Appointments](docs/screenshots/06-appointments.png) |
+![CarePoint admin overview dashboard](docs/screenshots/02-overview.png)
 
 ## Features
 
