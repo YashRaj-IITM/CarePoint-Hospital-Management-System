@@ -8,10 +8,6 @@ A full-stack hospital-management application built for the Application Developme
 
 ![CarePoint admin overview dashboard](docs/screenshots/02-overview.png)
 
-### Admin overview dashboard
-
-![CarePoint admin overview dashboard](docs/screenshots/02-overview.png)
-
 ## Features
 
 - Patient registration and token-based login/logout.
